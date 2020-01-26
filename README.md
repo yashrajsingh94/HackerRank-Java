@@ -35,7 +35,7 @@ This repository contains hackerrank Java practice solutions for most of the ques
 |       Data Structures   	  | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)           	    					| |
 |       Data Structures   	  | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)           	   					 		| |
 |       Data Structures   	  | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)           	   						| |
-|       Data Structures   	  | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)           	   					 		| |
+|       Data Structures   	  | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)           	   					 		|[Java ArrayList]https://github.com/yashrajsingh94/HackerRank-Java/blob/master/Java%20ArrayList.java) |
 |       Data Structures   	  | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem)           	   					 			| |
 |       Data Structures   	  | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem)           	   					 		| |
 |       Data Structures   	  | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)           	   					 	    	| |
